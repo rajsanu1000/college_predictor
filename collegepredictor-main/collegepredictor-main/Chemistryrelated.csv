@@ -1,0 +1,335 @@
+InstituteNo,year,institute_type,round_no,quota,pool,institute_short,program_name,program_duration,degree_short,category,opening_rank,closing_rank
+31,2016,NIT,6,OS,Gender-Neutral,NIT-Warangal,Chemical Engineering,4 Years,B.Tech,GEN,5832,12482
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Chemical Engineering,4 Years,B.Tech,GEN,11084,19841
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Chemistry,5 Years,Int Msc.,GEN,22058,36809
+20,2016,NIT,6,OS,Gender-Neutral,NIT-Nagpur,Chemical Engineering,4 Years,B.Tech,GEN,11312,21279
+20,2016,NIT,6,OS,Gender-Neutral,NIT-Nagpur,Mining Engineering,4 Years,B.Tech,GEN,21292,27673
+3,2016,NIT,6,OS,Gender-Neutral,NIT-Andhra-Pradesh,Chemical Engineering,4 Years,B.Tech,GEN,25562,28411
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,16533,31792
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34754,39781
+11,2019,NIT,7,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,15114,20964
+11,2019,NIT,7,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,23097,29138
+5,2019,NIT,7,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,20973,25825
+5,2019,NIT,7,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,30675,32960
+2,2019,NIT,7,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15751,18983
+2,2019,NIT,7,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,19797,21634
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,28078,38402
+1,2019,NIT,7,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,49350,49977
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,43418,47364
+6,2019,NIT,7,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,16517,23362
+6,2019,NIT,7,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21212,29238
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,18667,27965
+8,2019,NIT,7,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,29133,38513
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,30154,30154
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32666,42981
+8,2019,NIT,7,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,41028,41028
+10,2019,NIT,7,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,27710,30991
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26337,39243
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10295,13820
+14,2019,NIT,7,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,15680,20121
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,21703,27212
+14,2019,NIT,7,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,29945,35850
+21,2019,NIT,7,OS,Gender-Neutral,NIT-Patna,Chemistry,5 Years,Int Msc.,GEN,42918,45580
+21,2019,NIT,7,OS,Female-Only,NIT-Patna,Chemistry,5 Years,Int Msc.,GEN,44286,45940
+23,2019,NIT,7,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,27332,32930
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,30632,32446
+23,2019,NIT,7,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,31586,40458
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,45830,48816
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,28386,36081
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,39484,41990
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,13543,18067
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,16534,19008
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,23454,30004
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,42768,42776
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,16184,21875
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,27575,32366
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,36723,38084
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,22295,32946
+27,2019,NIT,7,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,38987,43019
+27,2019,NIT,7,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,45512,50906
+29,2019,NIT,7,OS,Gender-Neutral,NIT-Tiruchirappalli,Chemical Engineering,4 Years,B.Tech,GEN,5160,10643
+29,2019,NIT,7,OS,Female-Only,NIT-Tiruchirappalli,Chemical Engineering,4 Years,B.Tech,GEN,12167,13292
+31,2019,NIT,7,OS,Gender-Neutral,NIT-Warangal,Chemical Engineering,4 Years,B.Tech,GEN,7983,14401
+31,2019,NIT,7,OS,Female-Only,NIT-Warangal,Chemical Engineering,4 Years,B.Tech,GEN,14541,19542
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,29014,34825
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,30611,41918
+11,2020,NIT,6,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,16420,24475
+11,2020,NIT,6,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,24294,30663
+5,2020,NIT,6,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,23998,30093
+5,2020,NIT,6,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,32570,37911
+2,2020,NIT,6,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,17015,20185
+2,2020,NIT,6,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,22011,29745
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,37769,44090
+1,2020,NIT,6,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,51857,54475
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,47540,51170
+6,2020,NIT,6,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,17087,24301
+6,2020,NIT,6,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,20591,29627
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,26510,33349
+8,2020,NIT,6,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,40736,41380
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,35217,35217
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,45082,45405
+8,2020,NIT,6,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,52871,52871
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32245,37008
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,39336,41489
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10695,13407
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,19109,21582
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,21120,27128
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,39782,40140
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,28937,38111
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,43201,44918
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,35455,48959
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,49835,53724
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,28056,38542
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,46596,48892
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,40082,40505
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,14369,19650
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,23991,25012
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,20572,24418
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,9902,36585
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,25895,32458
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,47695,47765
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,35950,37209
+27,2020,NIT,6,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,44938,48711
+27,2020,NIT,6,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,53024,55658
+29,2020,NIT,6,OS,Gender-Neutral,NIT-Tiruchirappalli,Chemical Engineering,4 Years,B.Tech,GEN,3225,12056
+29,2020,NIT,6,OS,Female-Only,NIT-Tiruchirappalli,Chemical Engineering,4 Years,B.Tech,GEN,11328,14961
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,21394,28663
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Chemical Engineering,4 Years,B.Tech,GEN,34601,36595
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,14801,19901
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Chemical Engineering,4 Years,B.Tech,GEN,22173,23947
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,21127,25624
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Chemical Engineering,4 Years,B.Tech,GEN,25515,31078
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,15711,18104
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Chemical Engineering,4 Years,B.Tech,GEN,20814,23906
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,29521,36163
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Chemical Engineering,4 Years,B.Tech,GEN,39607,42127
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Chemistry,5 Years,BSc + MSc (IDD),GEN,27997,43226
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,15693,20403
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Chemical Engineering,4 Years,B.Tech,GEN,21692,24732
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,17281,26331
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemical Engineering,4 Years,B.Tech,GEN,25797,33336
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,27365,27365
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,32490,38156
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Chemistry,5 Years,Int Msc.,GEN,31035,31035
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,26653,28932
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Chemical Engineering,4 Years,B.Tech,GEN,32576,39177
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,10601,12472
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Chemical Engineering,4 Years,B.Tech,GEN,18555,18836
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,13399,21427
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Mining Engineering,4 Years,B.Tech,GEN,30114,34041
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,25665,31147
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Chemical Engineering,4 Years,B.Tech,GEN,32808,34111
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,32826,40019
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Mining Engineering,4 Years,B.Tech,GEN,43090,45430
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,20086,31192
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Ceramic Engineering,4 Years,B.Tech,GEN,34843,35168
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Ceramic Engineering and M.Tech Industrial Ceramic,5 Years,Btech + M.Tech (IDD),GEN,31385,31641
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,11705,16272
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Chemical Engineering,4 Years,B.Tech,GEN,18566,20907
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemical Engineering,5 Years,Btech + M.Tech (IDD),GEN,22811,22946
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Chemistry,5 Years,Int Msc.,GEN,23877,29865
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,21085,28088
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Mining Engineering,4 Years,B.Tech,GEN,37800,39036
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Mining Engineering,5 Years,Btech + M.Tech (IDD),GEN,25947,29090
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,34849,41530
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Chemical Engineering,4 Years,B.Tech,GEN,41021,45475

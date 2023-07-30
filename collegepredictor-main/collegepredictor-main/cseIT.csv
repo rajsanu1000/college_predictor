@@ -1,0 +1,965 @@
+InstituteNo,year, ,round_no,quota,pool,institute_short,program_name,program_duration,degree_short,category,opening_rank,closing_rank
+30,2016,NIT,6,OS,Gender-Neutral,NIT-Uttarakhand,Computer Science and Engineering,4 Years,B.Tech,GEN,9200,18568
+31,2016,NIT,6,OS,Gender-Neutral,NIT-Warangal,Computer Science and Engineering,4 Years,B.Tech,GEN,274,1318
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Computer Engineering,4 Years,B.Tech,GEN,1825,5268
+20,2016,NIT,6,OS,Gender-Neutral,NIT-Nagpur,Computer Science and Engineering,4 Years,B.Tech,GEN,2016,3661
+3,2016,NIT,6,OS,Gender-Neutral,NIT-Andhra-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,4863,12379
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,7199,9667
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10262,13987
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,9794,10836
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,14310,16284
+11,2019,NIT,7,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2135,4566
+11,2019,NIT,7,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,3110,6169
+5,2019,NIT,7,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,4967,7290
+5,2019,NIT,7,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,8691,10640
+2,2019,NIT,7,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,2111,3562
+2,2019,NIT,7,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,4507,6198
+2,2019,NIT,7,OS,Gender-Neutral,NIT-Allahabad,Information Technology,4 Years,B.Tech,GEN,4043,5595
+2,2019,NIT,7,OS,Female-Only,NIT-Allahabad,Information Technology,4 Years,B.Tech,GEN,7230,8573
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8325,16955
+1,2019,NIT,7,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,20922,27833
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Mathematics and Computing,5 Years,Int M.Tech,GEN,21002,27524
+6,2019,NIT,7,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2148,4820
+6,2019,NIT,7,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,5799,8265
+7,2019,NIT,7,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5901,7286
+7,2019,NIT,7,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5748,10164
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,6370,9193
+8,2019,NIT,7,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,11176,13688
+9,2019,NIT,7,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,7588,10587
+9,2019,NIT,7,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,15406,15879
+10,2019,NIT,7,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,7514,10015
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11006,15048
+10,2019,NIT,7,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,10543,12588
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,14901,17577
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,1452,2156
+14,2019,NIT,7,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,2787,3874
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2527,3731
+14,2019,NIT,7,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,4209,5533
+17,2019,NIT,7,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,13604,16156
+17,2019,NIT,7,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,27937,27937
+19,2019,NIT,7,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,18706,26535
+19,2019,NIT,7,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,30254,30254
+21,2019,NIT,7,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,9803,13638
+21,2019,NIT,7,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15599,19565
+22,2019,NIT,7,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,8530,15164
+22,2019,NIT,7,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16930,19176
+23,2019,NIT,7,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,7829,11571
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8084,14910
+23,2019,NIT,7,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,11266,13979
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,15255,18626
+25,2019,NIT,7,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19742,23800
+25,2019,NIT,7,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,28594,33374
+4,2019,NIT,7,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,18342,25460
+4,2019,NIT,7,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,34066,34096
+13,2019,NIT,7,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6714,9434
+13,2019,NIT,7,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,13761,15306
+15,2019,NIT,7,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,5646,7261
+15,2019,NIT,7,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,10402,12437
+15,2019,NIT,7,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,4433,6313
+15,2019,NIT,7,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,8398,9406
+16,2019,NIT,7,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18481,26160
+16,2019,NIT,7,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,32460,34134
+18,2019,NIT,7,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,18417,26401
+18,2019,NIT,7,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,34184,34184
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2149,4115
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,4537,7503
+26,2019,NIT,7,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,14751,18947
+27,2019,NIT,7,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,19810,23198
+27,2019,NIT,7,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,30618,34110
+27,2019,NIT,7,OS,Gender-Neutral,NIT-Srinagar,Information Technology,4 Years,B.Tech,GEN,24123,29442
+27,2019,NIT,7,OS,Female-Only,NIT-Srinagar,Information Technology,4 Years,B.Tech,GEN,34971,42246
+29,2019,NIT,7,OS,Gender-Neutral,NIT-Tiruchirappalli,Computer Science and Engineering,4 Years,B.Tech,GEN,280,1373
+29,2019,NIT,7,OS,Female-Only,NIT-Tiruchirappalli,Computer Science and Engineering,4 Years,B.Tech,GEN,1382,2371
+30,2019,NIT,7,OS,Gender-Neutral,NIT-Uttarakhand,Computer Science and Engineering,4 Years,B.Tech,GEN,12590,13327
+30,2019,NIT,7,OS,Female-Only,NIT-Uttarakhand,Computer Science and Engineering,4 Years,B.Tech,GEN,16489,16489
+31,2019,NIT,7,OS,Gender-Neutral,NIT-Warangal,Computer Science and Engineering,4 Years,B.Tech,GEN,826,1980
+31,2019,NIT,7,OS,Female-Only,NIT-Warangal,Computer Science and Engineering,4 Years,B.Tech,GEN,2428,3840
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,6140,8053
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,9800,14424
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,8877,9787
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,14453,16896
+11,2020,NIT,6,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2471,3789
+11,2020,NIT,6,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,5129,6874
+5,2020,NIT,6,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,4823,6509
+5,2020,NIT,6,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,8838,11841
+2,2020,NIT,6,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1388,3073
+2,2020,NIT,6,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,4761,6273
+2,2020,NIT,6,OS,Gender-Neutral,NIT-Allahabad,Information Technology,4 Years,B.Tech,GEN,3159,4119
+2,2020,NIT,6,OS,Female-Only,NIT-Allahabad,Information Technology,4 Years,B.Tech,GEN,7752,8903
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,10408,18351
+1,2020,NIT,6,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,23865,29218
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,21699,30596
+6,2020,NIT,6,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,1642,3682
+6,2020,NIT,6,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,4688,6481
+7,2020,NIT,6,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5095,6983
+7,2020,NIT,6,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,10025,12468
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,5855,8215
+8,2020,NIT,6,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,10209,12678
+9,2020,NIT,6,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,7420,10323
+9,2020,NIT,6,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,9842,14149
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,7273,9617
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,13008,16713
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,9684,11312
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,19533,19533
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,12164,14304
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,19153,21718
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,588,1324
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,2533,3214
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,1814,2838
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,4489,4613
+17,2020,NIT,6,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,13595,17848
+17,2020,NIT,6,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,29566,29566
+19,2020,NIT,6,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,22172,28779
+19,2020,NIT,6,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,39228,39228
+21,2020,NIT,6,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,8888,14010
+21,2020,NIT,6,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,16817,22922
+22,2020,NIT,6,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10836,15467
+22,2020,NIT,6,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,14542,16811
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,7965,10405
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,11166,15431
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9924,13154
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,16405,19713
+25,2020,NIT,6,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,18868,26007
+25,2020,NIT,6,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,30490,33219
+4,2020,NIT,6,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,17210,27307
+4,2020,NIT,6,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,30845,35057
+13,2020,NIT,6,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,7843,8968
+13,2020,NIT,6,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,13293,16531
+15,2020,NIT,6,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,2525,5457
+15,2020,NIT,6,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7100,8782
+15,2020,NIT,6,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,5589,6679
+15,2020,NIT,6,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11225,12465
+16,2020,NIT,6,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,22196,28003
+16,2020,NIT,6,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,34878,35609
+18,2020,NIT,6,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,26329,29040
+18,2020,NIT,6,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,34611,34611
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,871,3296
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,4032,5844
+26,2020,NIT,6,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5496,11127
+26,2020,NIT,6,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,12438,18229
+27,2020,NIT,6,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,16569,23555
+27,2020,NIT,6,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,25226,34779
+27,2020,NIT,6,OS,Gender-Neutral,NIT-Srinagar,Information Technology,4 Years,B.Tech,GEN,24407,29485
+27,2020,NIT,6,OS,Female-Only,NIT-Srinagar,Information Technology,4 Years,B.Tech,GEN,35392,40762
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,4992,7285
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Computer Science and Engineering,4 Years,B.Tech,GEN,10432,12483
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,7504,9553
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Information Technology,4 Years,B.Tech,GEN,13363,14793
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,24,2594
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Computer Science and Engineering,4 Years,B.Tech,GEN,1863,5106
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,3304,5981
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Computer Science and Engineering,4 Years,B.Tech,GEN,6970,10043
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,8231,12023
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Mathematics and Data Science,5 Years,Btech + M.Tech (IDD),GEN,14496,14496
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,408,2362
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Computer Science and Engineering,4 Years,B.Tech,GEN,1509,3863
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,8727,16289
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Computer Science and Engineering,4 Years,B.Tech,GEN,24350,27991
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Mathematics & Computing,5 Years,BSc + MSc (IDD),GEN,11128,25733
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,180,2717
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Computer Science and Engineering,4 Years,B.Tech,GEN,2646,4919
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,623,5700
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Computer Science and Engineering,4 Years,B.Tech,GEN,5340,10380
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,3326,6548
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Computer Science and Engineering,4 Years,B.Tech,GEN,4869,10189
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,5735,8394
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Computer Science and Engineering,4 Years,B.Tech,GEN,11251,13481
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,8510,12827
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Mathematics and Computing,4 Years,B.Tech,GEN,13727,20891
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,736,1680
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Artificial Intelligence,4 Years,B.Tech,GEN,2022,2647
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,842,4826
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Computer Engineering,4 Years,B.Tech,GEN,7859,9546
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11171,19928
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,12794,31606
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,17065,21948
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,29531,29531
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11171,19928
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,12794,31606
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,874,8881
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,4 Years,B.Tech,GEN,5718,11516
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,17065,21948
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,29531,29531
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,8584,9904
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Computer Science and Engineering,5 Years,Btech + M.Tech (IDD),GEN,15484,15484
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,164,2734
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,3605,4247
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,34,618
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Computer Science and Engineering,4 Years,B.Tech,GEN,292,1045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,2798,3755
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,5221,5366
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,694,1650
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Information Technology,4 Years,B.Tech,GEN,3007,3203
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,74161,91463
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,163702,163702
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,10819,14672
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Computer Science and Engineering,4 Years,B.Tech,GEN,19008,19008
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,16589,23101
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Computer Science and Engineering,4 Years,B.Tech,GEN,31877,31877
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,2608,13449
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,13664,21047
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,10234,12661
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Computer Science and Engineering,4 Years,B.Tech,GEN,15701,18462
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,11510,51754
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,82067,109089
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,10086,13155
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Computer Science and Engineering,4 Years,B.Tech,GEN,16757,20587
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,8508,17250
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,2606,24683
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,4173,9541
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Computer Science and Engineering,4 Years,B.Tech,GEN,12507,13450
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,18075,24564
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,26536,29365
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,9564,11195
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Information Technology,4 Years,B.Tech,GEN,14045,16819
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,88273,161648
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,116956,136753
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,19558,21385
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Computer Science and Engineering,4 Years,B.Tech,GEN,22368,24859
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,73474,160866
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,76692,140110
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,11063,23657
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Computer Science and Engineering,4 Years,B.Tech,GEN,29506,31953
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3086,9932
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,3939,18457
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,6087,7686
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Computer Science and Engineering,4 Years,B.Tech,GEN,11334,13058
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,6110,9497
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,11360,14154
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,4871,6156
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Information Technology,4 Years,B.Tech,GEN,9804,11221
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,90159,255995
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,130510,253094
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,18511,22159
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Computer Science and Engineering,4 Years,B.Tech,GEN,30948,31835
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,99431,341464
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,199199,257001
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,9776,24041
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Computer Science and Engineering,4 Years,B.Tech,GEN,29423,29423
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1874,8255
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,2023,8437
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,861,2033
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Computer Science and Engineering,4 Years,B.Tech,GEN,1619,3081
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,7291,23307
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,10598,21819
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,5464,10134
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Computer Science and Engineering,4 Years,B.Tech,GEN,13732,15557
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,1640,22078
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,15309,40998
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,121794,130501
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,8851,19669
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Computer Science and Engineering,4 Years,B.Tech,GEN,20553,25231
+28,2016,NIT,6,HS,Gender-Neutral,NIT-Surat,Computer Engineering,4 Years,B.Tech,GEN,763,5844
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Computer Engineering,4 Years,B.Tech,GEN,1825,5268

@@ -1,0 +1,1775 @@
+InstituteNo,year,institute_type,round_no,quota,pool,institute_short,program_name,program_duration,degree_short,category,opening_rank,closing_rank
+29,2016,NIT,6,OS,Gender-Neutral,NIT-Tiruchirappalli,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,3207,10717
+30,2016,NIT,6,OS,Gender-Neutral,NIT-Uttarakhand,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,19606,26626
+30,2016,NIT,6,OS,Gender-Neutral,NIT-Uttarakhand,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15153,24407
+31,2016,NIT,6,OS,Gender-Neutral,NIT-Warangal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,2176,4595
+31,2016,NIT,6,OS,Gender-Neutral,NIT-Warangal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,501,2846
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Electrical Engineering,4 Years,B.Tech,GEN,7962,11217
+28,2016,NIT,6,OS,Gender-Neutral,NIT-Surat,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5569,8286
+20,2016,NIT,6,OS,Gender-Neutral,NIT-Nagpur,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,4872,8898
+20,2016,NIT,6,OS,Gender-Neutral,NIT-Nagpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1853,5610
+3,2016,NIT,6,OS,Gender-Neutral,NIT-Andhra-Pradesh,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14030,23648
+3,2016,NIT,6,OS,Gender-Neutral,NIT-Andhra-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8366,18013
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,15360,18057
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,24383,25828
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9380,15011
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18750,21245
+12,2019,NIT,7,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,20669,30299
+12,2019,NIT,7,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,26066,39922
+11,2019,NIT,7,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,8982,13357
+11,2019,NIT,7,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,12250,19543
+11,2019,NIT,7,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7445,9208
+11,2019,NIT,7,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10271,14157
+5,2019,NIT,7,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13422,15602
+5,2019,NIT,7,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20791,23686
+5,2019,NIT,7,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8642,12504
+5,2019,NIT,7,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12886,16571
+2,2019,NIT,7,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,3330,10445
+2,2019,NIT,7,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,12655,15263
+2,2019,NIT,7,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6950,11836
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,25609,29743
+1,2019,NIT,7,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,35587,42828
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18973,24742
+1,2019,NIT,7,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28671,35593
+1,2019,NIT,7,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,29513,36200
+1,2019,NIT,7,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41861,42996
+6,2019,NIT,7,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3284,8378
+6,2019,NIT,7,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9515,11676
+6,2019,NIT,7,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,8618,11908
+6,2019,NIT,7,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13169,15466
+7,2019,NIT,7,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9099,12016
+7,2019,NIT,7,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16275,17431
+7,2019,NIT,7,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18995,19987
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,13502,16776
+8,2019,NIT,7,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20363,24540
+8,2019,NIT,7,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9358,13122
+8,2019,NIT,7,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13844,18662
+9,2019,NIT,7,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8017,15614
+9,2019,NIT,7,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21941,23363
+9,2019,NIT,7,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,17603,18951
+9,2019,NIT,7,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,21873,21873
+10,2019,NIT,7,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,16051,19467
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,23542,28006
+10,2019,NIT,7,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12473,15740
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21379,23539
+10,2019,NIT,7,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,18179,23237
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2776,5112
+14,2019,NIT,7,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5119,6811
+14,2019,NIT,7,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,8324,11230
+17,2019,NIT,7,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20875,27032
+17,2019,NIT,7,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,29218,29218
+17,2019,NIT,7,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,27474,30936
+17,2019,NIT,7,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,35151,35151
+19,2019,NIT,7,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28266,31515
+19,2019,NIT,7,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,36909,41346
+19,2019,NIT,7,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35141,41186
+19,2019,NIT,7,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47734,47734
+19,2019,NIT,7,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,35093,41274
+21,2019,NIT,7,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21792,25666
+21,2019,NIT,7,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,29236,32639
+21,2019,NIT,7,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23755,27991
+22,2019,NIT,7,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15302,19231
+22,2019,NIT,7,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18919,21191
+22,2019,NIT,7,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,17772,26479
+22,2019,NIT,7,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,23720,26447
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,20185,23717
+23,2019,NIT,7,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14697,16619
+23,2019,NIT,7,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14727,19935
+25,2019,NIT,7,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34731,34731
+25,2019,NIT,7,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,31901,36564
+25,2019,NIT,7,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,41847,41847
+4,2019,NIT,7,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,31653,34836
+4,2019,NIT,7,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26029,30666
+4,2019,NIT,7,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,36760,41903
+13,2019,NIT,7,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,14168,18296
+13,2019,NIT,7,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,24110,27099
+13,2019,NIT,7,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11715,14655
+13,2019,NIT,7,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18731,20614
+15,2019,NIT,7,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9086,15013
+15,2019,NIT,7,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,19276,22345
+15,2019,NIT,7,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7923,11467
+15,2019,NIT,7,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12598,14575
+16,2019,NIT,7,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,26947,36017
+16,2019,NIT,7,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,43978,43978
+16,2019,NIT,7,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27257,30102
+16,2019,NIT,7,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34549,39797
+18,2019,NIT,7,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28730,32603
+18,2019,NIT,7,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,42438,42438
+18,2019,NIT,7,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36586,40170
+18,2019,NIT,7,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,46604,48780
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,6111,9875
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,11363,14129
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,4384,5674
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8332,9375
+24,2019,NIT,7,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10290,12339
+24,2019,NIT,7,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,12174,14016
+26,2019,NIT,7,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,17566,23469
+26,2019,NIT,7,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,24652,34117
+26,2019,NIT,7,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,17412
+26,2019,NIT,7,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19821,23392
+26,2019,NIT,7,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,19093,27483
+26,2019,NIT,7,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,28620,33979
+27,2019,NIT,7,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,30314,38524
+27,2019,NIT,7,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,42233,43898
+27,2019,NIT,7,OS,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24404,33388
+27,2019,NIT,7,OS,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33513,42297
+29,2019,NIT,7,OS,Gender-Neutral,NIT-Tiruchirappalli,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1815,3019
+29,2019,NIT,7,OS,Female-Only,NIT-Tiruchirappalli,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3080,3508
+29,2019,NIT,7,OS,Gender-Neutral,NIT-Tiruchirappalli,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3571,5243
+29,2019,NIT,7,OS,Female-Only,NIT-Tiruchirappalli,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,6031,8624
+29,2019,NIT,7,OS,Gender-Neutral,NIT-Tiruchirappalli,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,7314,13606
+29,2019,NIT,7,OS,Female-Only,NIT-Tiruchirappalli,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9728,16486
+30,2019,NIT,7,OS,Gender-Neutral,NIT-Uttarakhand,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13713,20059
+30,2019,NIT,7,OS,Female-Only,NIT-Uttarakhand,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28809,28809
+30,2019,NIT,7,OS,Gender-Neutral,NIT-Uttarakhand,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,21884,26523
+31,2019,NIT,7,OS,Gender-Neutral,NIT-Warangal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2349,4755
+31,2019,NIT,7,OS,Female-Only,NIT-Warangal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3979,8224
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,17285,19600
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,28318,28968
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10440,13735
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18302,21875
+12,2020,NIT,6,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21316,34845
+12,2020,NIT,6,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,35422,42191
+11,2020,NIT,6,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,7197,13406
+11,2020,NIT,6,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14841,20714
+11,2020,NIT,6,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,4965,8747
+11,2020,NIT,6,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11632,14740
+5,2020,NIT,6,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,12539,18017
+5,2020,NIT,6,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,22383,25659
+5,2020,NIT,6,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8476,12496
+5,2020,NIT,6,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12743,17440
+2,2020,NIT,6,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,2638,10628
+2,2020,NIT,6,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,14985,17388
+2,2020,NIT,6,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,4964,7138
+2,2020,NIT,6,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8657,14339
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,18812,33853
+1,2020,NIT,6,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,41218,45999
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21131,24809
+1,2020,NIT,6,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,29391,39045
+1,2020,NIT,6,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,29500,37122
+1,2020,NIT,6,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,40686,43294
+6,2020,NIT,6,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,6982,11805
+6,2020,NIT,6,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11216,13866
+6,2020,NIT,6,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,4672,6864
+6,2020,NIT,6,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6291,8539
+7,2020,NIT,6,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11548,18291
+7,2020,NIT,6,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,21092,23255
+7,2020,NIT,6,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9854,13102
+7,2020,NIT,6,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16380,19466
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,15463,18653
+8,2020,NIT,6,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,22645,29651
+8,2020,NIT,6,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9140,13191
+8,2020,NIT,6,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10208,19855
+9,2020,NIT,6,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,19728,21121
+9,2020,NIT,6,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,22245,22245
+9,2020,NIT,6,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14553,16711
+9,2020,NIT,6,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18022,18022
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,17026,22094
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,27709,31324
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12822,15750
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20241,22532
+10,2020,NIT,6,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,15956,20009
+10,2020,NIT,6,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,30411,30411
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,4238,6392
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7797,9259
+14,2020,NIT,6,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1782,4151
+14,2020,NIT,6,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5301,6413
+17,2020,NIT,6,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28171,31730
+17,2020,NIT,6,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,44650,44650
+17,2020,NIT,6,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22597,27791
+17,2020,NIT,6,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40749,40749
+19,2020,NIT,6,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38040,44122
+19,2020,NIT,6,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,56870,57074
+19,2020,NIT,6,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,29340,36482
+19,2020,NIT,6,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,42498,44289
+19,2020,NIT,6,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,42522,46353
+19,2020,NIT,6,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,55527,55527
+21,2020,NIT,6,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,20883,27452
+21,2020,NIT,6,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,29551,37213
+21,2020,NIT,6,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14177,20301
+21,2020,NIT,6,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20314,28949
+22,2020,NIT,6,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,21840,29855
+22,2020,NIT,6,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,27351,30451
+22,2020,NIT,6,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17144,20722
+22,2020,NIT,6,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21744,25349
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,17109,24936
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,28160,30229
+23,2020,NIT,6,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14074,17069
+23,2020,NIT,6,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19258,23398
+25,2020,NIT,6,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,33890,37939
+25,2020,NIT,6,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,48333,48333
+25,2020,NIT,6,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25007,32053
+25,2020,NIT,6,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,42408,42408
+4,2020,NIT,6,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,32879,40190
+4,2020,NIT,6,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,49214,53023
+4,2020,NIT,6,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28655,34073
+4,2020,NIT,6,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,43988,44585
+13,2020,NIT,6,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,16474,20295
+13,2020,NIT,6,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,29735,34235
+13,2020,NIT,6,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11547,14358
+13,2020,NIT,6,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22244,24748
+15,2020,NIT,6,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11854,17207
+15,2020,NIT,6,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,21115,24081
+15,2020,NIT,6,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9275,11559
+15,2020,NIT,6,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15616,18581
+16,2020,NIT,6,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,35078,39742
+16,2020,NIT,6,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,44638,44638
+16,2020,NIT,6,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24068,33641
+16,2020,NIT,6,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,35652,40883
+18,2020,NIT,6,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,40424,44843
+18,2020,NIT,6,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,48710,52917
+18,2020,NIT,6,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34608,38178
+18,2020,NIT,6,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,47392,47392
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,5670,9436
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,13236,14119
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,4297,5097
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8066,8231
+24,2020,NIT,6,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,7580,11905
+24,2020,NIT,6,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14155,14266
+26,2020,NIT,6,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,18262,25411
+26,2020,NIT,6,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,29935,34410
+26,2020,NIT,6,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10217,16959
+26,2020,NIT,6,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20963,24493
+26,2020,NIT,6,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,18362,27769
+26,2020,NIT,6,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,27831,33557
+27,2020,NIT,6,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,31601,41365
+27,2020,NIT,6,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,46950,52793
+27,2020,NIT,6,OS,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28140,36006
+27,2020,NIT,6,OS,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,35767,42008
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,11505,16940
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electrical Engineering,4 Years,B.Tech,GEN,22660,24927
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8773,12749
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16270,18981
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+12,2021,NIT,1,OS,Gender-Neutral,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,9974,26541
+12,2021,NIT,1,OS,Female-Only,NIT-Jalandhar,Instrumentation and Control Engineering,4 Years,B.Tech,GEN,21941,30625
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,4254,11904
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electrical Engineering,4 Years,B.Tech,GEN,14425,19469
+11,2021,NIT,1,OS,Gender-Neutral,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3420,8106
+11,2021,NIT,1,OS,Female-Only,NIT-Jaipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6541,12399
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,13698,15565
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electrical Engineering,4 Years,B.Tech,GEN,20980,21787
+5,2021,NIT,1,OS,Gender-Neutral,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7902,12006
+5,2021,NIT,1,OS,Female-Only,NIT-Bhopal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,13305,16156
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,8417,9853
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electrical Engineering,4 Years,B.Tech,GEN,15802,16248
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+2,2021,NIT,1,OS,Gender-Neutral,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3663,7207
+2,2021,NIT,1,OS,Female-Only,NIT-Allahabad,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6246,13034
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,16146,29614
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electrical Engineering,4 Years,B.Tech,GEN,34854,39848
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17118,23888
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Communication Engineering,4 Years,B.Tech,GEN,27448,33731
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+1,2021,NIT,1,OS,Gender-Neutral,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,23509,33375
+1,2021,NIT,1,OS,Female-Only,NIT-Agartala,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,33573,39904
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,7653,10612
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,11960,14654
+6,2021,NIT,1,OS,Gender-Neutral,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5280,7127
+6,2021,NIT,1,OS,Female-Only,NIT-Calicut,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7708,9207
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,13278,15967
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,20252,21898
+7,2021,NIT,1,OS,Gender-Neutral,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6619,12777
+7,2021,NIT,1,OS,Female-Only,NIT-Delhi,Electronics and Communication Engineering,4 Years,B.Tech,GEN,15112,18450
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,12937,16380
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electrical Engineering,4 Years,B.Tech,GEN,20750,22706
+8,2021,NIT,1,OS,Gender-Neutral,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9567,11114
+8,2021,NIT,1,OS,Female-Only,NIT-Durgapur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12536,16194
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,GO,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31703,40651
+9,2021,NIT,1,GO,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26821,26821
+9,2021,NIT,1,HS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,46113,59590
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,95161,95161
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,176913,176913
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,GO,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31703,40651
+9,2021,NIT,1,GO,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26821,26821
+9,2021,NIT,1,HS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,46113,59590
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,95161,95161
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,176913,176913
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,GO,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31703,40651
+9,2021,NIT,1,GO,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26821,26821
+9,2021,NIT,1,HS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,46113,59590
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,95161,95161
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,176913,176913
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,GO,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31703,40651
+9,2021,NIT,1,GO,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26821,26821
+9,2021,NIT,1,HS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,46113,59590
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,95161,95161
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,176913,176913
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,14251,17611
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,16147,16147
+9,2021,NIT,1,GO,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31703,40651
+9,2021,NIT,1,GO,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26821,26821
+9,2021,NIT,1,HS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,46113,59590
+9,2021,NIT,1,HS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,95161,95161
+9,2021,NIT,1,OS,Gender-Neutral,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11497,14061
+9,2021,NIT,1,OS,Female-Only,NIT-Goa,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14091,14091
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,26865,47384
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,40601,83879
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,15155,19947
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electrical Engineering,4 Years,B.Tech,GEN,25083,28464
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21594,34017
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,40614,58933
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10127,14260
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17735,20011
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+10,2021,NIT,1,HS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,36161,40996
+10,2021,NIT,1,HS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,68626,68626
+10,2021,NIT,1,OS,Gender-Neutral,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,9920,16018
+10,2021,NIT,1,OS,Female-Only,NIT-Hamirpur,Electronics and Communication Engineering,5 Years,Btech + M.Tech (IDD),GEN,24257,24257
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,5003,6981
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,10040,11279
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,3268,5295
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,9624,11045
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+14,2021,NIT,1,HS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,2951,4740
+14,2021,NIT,1,HS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,5974,9111
+14,2021,NIT,1,OS,Gender-Neutral,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,1196,3404
+14,2021,NIT,1,OS,Female-Only,NIT-Karnataka-Surathkal,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3984,6338
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,102183,167053
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,180032,180032
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,24616,28483
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,36059,36059
+17,2021,NIT,1,HS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,92090,118077
+17,2021,NIT,1,HS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,153961,153961
+17,2021,NIT,1,OS,Gender-Neutral,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17081,24265
+17,2021,NIT,1,OS,Female-Only,NIT-Meghalaya,Electronics and Communication Engineering,4 Years,B.Tech,GEN,26929,26929
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,34565,39095
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42176,42176
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,24910,32918
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Communication Engineering,4 Years,B.Tech,GEN,34974,38184
+19,2021,NIT,1,OS,Gender-Neutral,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,35391,40236
+19,2021,NIT,1,OS,Female-Only,NIT-Nagaland,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,41074,43924
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,21946,25958
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,6284,34027
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,10295,22989
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electrical Engineering,4 Years,B.Tech,GEN,27895,30072
+21,2021,NIT,1,HS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14014,20343
+21,2021,NIT,1,HS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25100,28609
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+21,2021,NIT,1,OS,Gender-Neutral,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12935,17871
+21,2021,NIT,1,OS,Female-Only,NIT-Patna,Electronics and Communication Engineering,4 Years,B.Tech,GEN,21876,25701
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,57154,125758
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,135881,158546
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,18645,24597
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28415,28415
+22,2021,NIT,1,HS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59700,97297
+22,2021,NIT,1,HS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,126782,135725
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+22,2021,NIT,1,OS,Gender-Neutral,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14981,18486
+22,2021,NIT,1,OS,Female-Only,NIT-Puducherry,Electronics and Communication Engineering,4 Years,B.Tech,GEN,16223,23708
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,31094,40619
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,37860,40300
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,15600,20334
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electrical Engineering,4 Years,B.Tech,GEN,23670,26634
+23,2021,NIT,1,HS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,18614,32263
+23,2021,NIT,1,HS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,30299,37657
+23,2021,NIT,1,OS,Gender-Neutral,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11261,15108
+23,2021,NIT,1,OS,Female-Only,NIT-Raipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20721,21557
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,216198,374887
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,308717,336458
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,28458,33220
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,38260,38260
+25,2021,NIT,1,HS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,238624,336964
+25,2021,NIT,1,HS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,256634,313642
+25,2021,NIT,1,OS,Gender-Neutral,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25948,28916
+25,2021,NIT,1,OS,Female-Only,NIT-Sikkim,Electronics and Communication Engineering,4 Years,B.Tech,GEN,37083,37083
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,203323,368259
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,357658,521932
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,25302,36250
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electrical Engineering,4 Years,B.Tech,GEN,39860,42238
+4,2021,NIT,1,HS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,84955,374118
+4,2021,NIT,1,HS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,168621,512001
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+4,2021,NIT,1,OS,Gender-Neutral,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,31399,33217
+4,2021,NIT,1,OS,Female-Only,NIT-Arunachal-Pradesh,Electronics and Communication Engineering,4 Years,B.Tech,GEN,38490,39219
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,10639,22616
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,23175,28703
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,13708,18027
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electrical Engineering,4 Years,B.Tech,GEN,20638,24882
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+13,2021,NIT,1,HS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11721,17377
+13,2021,NIT,1,HS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,19583,21723
+13,2021,NIT,1,OS,Gender-Neutral,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,9479,12820
+13,2021,NIT,1,OS,Female-Only,NIT-Jamshedpur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,17294,19466
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,9783,18131
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,22600,30061
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,10513,14326
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electrical Engineering,4 Years,B.Tech,GEN,11695,21372
+15,2021,NIT,1,HS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7191,13439
+15,2021,NIT,1,HS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,14244,21360
+15,2021,NIT,1,OS,Gender-Neutral,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,7206,10339
+15,2021,NIT,1,OS,Female-Only,NIT-Kurukshetra,Electronics and Communication Engineering,4 Years,B.Tech,GEN,11623,15013
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,165079,293126
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,145761,145761
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,31981,36140
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electrical Engineering,4 Years,B.Tech,GEN,41581,42687
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+16,2021,NIT,1,HS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,240706,395196
+16,2021,NIT,1,HS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,307552,356922
+16,2021,NIT,1,OS,Gender-Neutral,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,22430,30218
+16,2021,NIT,1,OS,Female-Only,NIT-Manipur,Electronics and Communication Engineering,4 Years,B.Tech,GEN,33635,33743
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,352847,802997
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,32185,39611
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electrical and Electronics Engineering,4 Years,B.Tech,GEN,42434,42434
+18,2021,NIT,1,HS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,146512,784612
+18,2021,NIT,1,HS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,550243,550243
+18,2021,NIT,1,OS,Gender-Neutral,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28893,32941
+18,2021,NIT,1,OS,Female-Only,NIT-Mizoram,Electronics and Communication Engineering,4 Years,B.Tech,GEN,39314,39314
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,8257,17184
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15609,26732
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,1108,8819
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electrical Engineering,4 Years,B.Tech,GEN,15788,17246
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,8461,10258
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,10514,14558
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,3484,5300
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Communication Engineering,4 Years,B.Tech,GEN,6364,7866
+24,2021,NIT,1,HS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10330,17079
+24,2021,NIT,1,HS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,15007,21910
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+24,2021,NIT,1,OS,Gender-Neutral,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10015,11232
+24,2021,NIT,1,OS,Female-Only,NIT-Rourkela,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,10143,15313
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,36411,55847
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,43885,50460
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,16162,22669
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electrical Engineering,4 Years,B.Tech,GEN,23916,29074
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,23944,35446
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,25314,43641
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,12225,16141
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,20659,23046
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+26,2021,NIT,1,HS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,38462,54358
+26,2021,NIT,1,HS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,47605,53834
+26,2021,NIT,1,OS,Gender-Neutral,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,14487,22175
+26,2021,NIT,1,OS,Female-Only,NIT-Silchar,Electronics and Instrumentation Engineering,4 Years,B.Tech,GEN,24849,28785
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,33762,49417
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,63659,88708
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,236627,261880
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,350695,350695
+27,2021,NIT,1,OS,Gender-Neutral,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,27275,35311
+27,2021,NIT,1,OS,Female-Only,NIT-Srinagar,Electrical Engineering,4 Years,B.Tech,GEN,39397,42620
+27,2021,NIT,1,JK,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,28930,40483
+27,2021,NIT,1,JK,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,59528,72405
+27,2021,NIT,1,LA,Gender-Neutral,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,166453,265454
+27,2021,NIT,1,LA,Female-Only,NIT-Srinagar,Electronics and Communication Engineering,4 Years,B.Tech,GEN,215054,215054
